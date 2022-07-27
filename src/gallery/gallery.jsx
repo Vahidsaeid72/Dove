@@ -19,7 +19,7 @@ const Gallery = () => {
             },
             {
                 id:3 ,
-                title :'دوست دار سلامتی',
+                title :'دوست پوست',
                 explain : 'داو دوست دار پوست و موی شما بهترین انتخاب برای کسانی که زیبایی خود اهمیت میدهند',
                 Icon : 'fa fa-heartbeat text-danger'
             },

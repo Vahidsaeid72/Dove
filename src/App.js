@@ -15,7 +15,6 @@ const App = ()=>{
            <Route path="/ConectToUs" element={<ConectToUs/>} />
            <Route path="/" exact="true" element={<Home/>} />
         </Routes>
-
         </> ) 
 }
 export default App;
